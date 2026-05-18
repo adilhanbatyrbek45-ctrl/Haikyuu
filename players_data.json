@@ -1,0 +1,48 @@
+{
+    "1213818109": {
+        "username": "Адок",
+        "balance": 900,
+        "inventory": [
+            "Kei Tsukishima",
+            "Kenma Kozume",
+            "Tobio Kageyama",
+            "Yu Nishinoya",
+            "Toru Oikawa",
+            "Tetsuro Kuroo",
+            "Toru Oikawa",
+            "Kei Tsukishima",
+            "Atsumu Miya",
+            "Kenma Kozume",
+            "Toru Oikawa"
+        ],
+        "rolls_today": 5,
+        "last_roll_date": "2026-05-18",
+        "last_bonus_date": "2026-05-18"
+    },
+    "6828338885": {
+        "username": "Alibek",
+        "balance": 200,
+        "inventory": [
+            "Udai Tenma",
+            "Keiji Akaashi",
+            "Atsumu Miya",
+            "Kenma Kozume"
+        ],
+        "rolls_today": 5,
+        "last_roll_date": "2026-05-18",
+        "last_bonus_date": "2026-05-18"
+    },
+    "1382759373": {
+        "username": "Даулеткали",
+        "balance": 0,
+        "inventory": [
+            "Kotaro Bokuto",
+            "Shoyo Hinata",
+            "Koshi Sugawara",
+            "Kenma Kozume",
+            "Azumane Asahi"
+        ],
+        "rolls_today": 5,
+        "last_roll_date": "2026-05-18"
+    }
+}
